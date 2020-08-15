@@ -50,7 +50,7 @@ namespace Minesweeper
      
             sp = new System.Media.SoundPlayer(@"..\..\Resources\music\0.wav");
             musicisplaying = true;
-
+//keep in comment if music file not acquired else remove it to play sound
            // sp.Play();
         }
         void create()
