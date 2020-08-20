@@ -14,7 +14,7 @@ Different minesweeper experience with Lo-fi and classical background relaxing mu
   
 ## Built With C# 
 
-##GIFS
+## GIFS
 
 
 </br>
