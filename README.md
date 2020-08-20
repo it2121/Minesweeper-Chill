@@ -12,7 +12,7 @@
   <h3 align="center">Minesweeper Chill</h3>
 Different minesweeper experience with Lo-fi and classical background relaxing music and changeable backgrounds
   
-### Built With C# 
+## Built With C# 
 
 ###GIFS
 
