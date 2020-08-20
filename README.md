@@ -3,6 +3,7 @@
 
 
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
   <a href="https://github.com/it2121/Minesweeper-Chill/">
