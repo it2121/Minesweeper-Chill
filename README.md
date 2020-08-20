@@ -14,7 +14,7 @@ Different minesweeper experience with Lo-fi and classical background relaxing mu
   
 ## Built With C# 
 
-###GIFS
+##GIFS
 
 
 </br>
@@ -28,3 +28,8 @@ Different minesweeper experience with Lo-fi and classical background relaxing mu
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/it2121/
 
+## Copyright and License
+
+Copyright 2020 Mohammed Talib.
+
+Licensed under the [MIT License](https://github.com/it2121/Minesweeper/edit/master/LICENSE.txt)
