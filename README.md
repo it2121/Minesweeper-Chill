@@ -33,4 +33,4 @@ Different minesweeper experience with Lo-fi and classical background relaxing mu
 
 Copyright 2020 Mohammed Talib.
 
-Licensed under the [MIT License](https://github.com/it2121/Minesweeper/edit/master/LICENSE.txt)
+Licensed under the [MIT License](https://github.com/it2121/Minesweeper-Chill/edit/master/LICENSE.txt)
